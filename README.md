@@ -3,13 +3,8 @@ This is a simple Node.js application using the Express server.
 Project Structure
 bash
 `````````````````
-│
-├── /public
-│   └── /styles
-│       └── styles.css  # CSS file for basic styling
-│
-├── /routes
-│   └── index.js        # Express route file
+
+
 │
 ├── server.js           # Main entry point of the server
 ├── package.json        # Project metadata and dependencies
