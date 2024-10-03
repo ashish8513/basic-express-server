@@ -3,9 +3,6 @@ This is a simple Node.js application using the Express server.
 Project Structure
 bash
 `````````````````
-
-
-│
 ├── server.js           # Main entry point of the server
 ├── package.json        # Project metadata and dependencies
 ├── .gitignore          # Ignoring node_modules and other files
