@@ -2,7 +2,7 @@ Basic Express Server with CSS
 This is a simple Node.js application using the Express server.
 Project Structure
 bash
-/my-express-server
+`````````````````
 │
 ├── /public
 │   └── /styles
@@ -15,7 +15,8 @@ bash
 ├── package.json        # Project metadata and dependencies
 ├── .gitignore          # Ignoring node_modules and other files
 └── README.md           # Project documentation
-Prerequisites
+``````````````````
+
 Node.js installed on your machine.
 Basic understanding of JavaScript and Node.js.
 
