@@ -3,9 +3,9 @@ import { config } from 'dotenv';
 import connectToDB from './config/db.js';
 
 config();
-const PORT = process.env.PORT || 8080; // port number
+const PORT = process.env.PORT || 8080; 
 
-const app = express(); // create express app server instance
+const app = express();
 
 app.get('/ping', (req, res) => {
     return res.json({ message: 'pong' });
