@@ -28,7 +28,7 @@ Go to http://localhost:3000/ping.
 You should see the response "pong".
 
 <p align="center">
-  <img src="https://github.com/ashish8513/basic-express-server/blob/main/Screenshot%202024-10-06%20010208.png" width="400" alt="Second loading Page">
+  <img src="https://github.com/ashish8513/basic-express-server/blob/main/Screenshot%202024-10-06%20010208.png" width="500" alt="Second loading Page">
 </p>
 
 
