@@ -27,7 +27,10 @@ Ping Route:
 Go to http://localhost:3000/ping.
 You should see the response "pong".
 
-![Second loading Page](https://github.com/ashish8513/basic-express-server/blob/main/Screenshot%202024-10-06%20010208.png)
+<p align="center">
+  <img src="https://github.com/ashish8513/basic-express-server/blob/main/Screenshot%202024-10-06%20010208.png" alt="Second loading Page">
+</p>
+
 
 folder structure of the project 
 <p align="center" >
