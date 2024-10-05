@@ -26,5 +26,9 @@ You should see a styled "pong" message.
 Ping Route:
 Go to http://localhost:3000/ping.
 You should see the response "pong".
+
 folder structure of the project 
-<p><img src"" /></p>
+<p align="center" >
+   <img  src="https://github.com/ashish8513/basic-express-server/blob/main/Screenshot%20(6).png" width="600" alt="screen_image"/>
+</p>
+
