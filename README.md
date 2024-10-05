@@ -26,3 +26,5 @@ You should see a styled "pong" message.
 Ping Route:
 Go to http://localhost:3000/ping.
 You should see the response "pong".
+folder structure of the project 
+<p><img src"" /></p>
